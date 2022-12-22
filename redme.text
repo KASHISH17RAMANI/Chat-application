@@ -1,0 +1,7 @@
+STEPS TO RUN A LOCAL HOST
+
+1.open terminal and write nodemon -v
+2.write nodemon server.js(connect to the server)
+3.enter server start
+4.open locallhost 3000
+and it will work
